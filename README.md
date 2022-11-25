@@ -1,4 +1,3 @@
-# c2express01
+# Deploy to Docker Hub
 
-Test simple routes in Express eg GET, POST
-use GitHub Actions to create image and push to DockerHub
+Test simple routes in Express, use GitHub Actions to create image and push to DockerHub
